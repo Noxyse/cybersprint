@@ -1,5 +1,5 @@
-# Titre 1
+# Title 1
 
-## Titre 2
+## Title 2
 
-**texte en gras**
+**bold text**
